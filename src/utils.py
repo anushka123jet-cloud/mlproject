@@ -4,7 +4,7 @@ import dill
 import numpy as np
 import pandas as pd
 from sklearn.metrics import r2_score
-from sklearn.model_selection import GridSearchCV
+
 
 from src.exception import CustomException
 
