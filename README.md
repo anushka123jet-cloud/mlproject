@@ -240,7 +240,7 @@ Potential enhancements include:
 **Anushka Verma**
 
 * GitHub: [anushka123jet-cloud](https://github.com/anushka123jet-cloud)
-* Project Repository: [Student Exam Performance Indicator](https://github.com/anushka123jet-cloud/mlproject)
+* Project Repository: [EduPredict AI](https://github.com/anushka123jet-cloud/mlproject)
 
 ---
 
