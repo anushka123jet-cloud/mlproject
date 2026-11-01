@@ -5,6 +5,9 @@ from src.utils import load_object
 import os
 
 
+class PredictPipeline:
+    def __init__(self):
+        pass
 
     def predict(self,features):
          try:
