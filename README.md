@@ -1,4 +1,4 @@
-# 🎓 EduPredict AI
+# 🎓 
 
 ### An End-to-End Machine Learning Application for Predicting Student Mathematics Performance
 
