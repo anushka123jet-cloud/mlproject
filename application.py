@@ -8,9 +8,7 @@ application = Flask(__name__)
 app = application
 ## Route for the home page
 
-@app.route('/')
-def index():
-    return render_template('index.html')
+
 
 @app.route('/predictdata',methods = ['GET','POST'])
 def predict_data():
